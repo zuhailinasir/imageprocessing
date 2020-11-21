@@ -73,7 +73,7 @@ st.write("""
 
 st.write("This is an app to turn your photos into cartoon")
 
-file = st.sidebar.file_uploader("Please upload an image file", type=["jpg", "png"])
+file = st.sidebar.file_uploader("Please upload an image file", type=["jpg", "png","tiff","raw"])
 
 if file is None:
     st.text("You haven't uploaded an image file")
