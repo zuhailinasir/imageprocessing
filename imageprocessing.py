@@ -67,7 +67,7 @@ def cartoonization (img, cartoon):
 ###############################################################################
     
 st.write("""
-          # Cartoonize Your Image!
+          # Lets Processing Your Image!!
           """
           )
 
