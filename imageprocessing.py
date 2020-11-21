@@ -73,7 +73,7 @@ st.write("""
 
 st.write("This is an app to turn your photos into cartoon")
 
-st.write("This is an is build by *zuhailinasir*")
+st.write("**Authors**: *zuhailinasir*")
 
 file = st.sidebar.file_uploader("Please upload an image file", type=["jpg", "png","tiff","raw"])
 
